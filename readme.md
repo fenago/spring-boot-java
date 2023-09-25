@@ -1,4 +1,7 @@
 # Setting Up Gitpod for Java and Spring Boot
+
+Presentation Deck is here:  https://drive.google.com/file/d/1Bj5XYU8Mjepw-_fLEBiZ3mLtsngcdnGe/view?usp=sharing
+
 Follow these steps to configure your Gitpod environment for Java, Spring Boot, and Spring services development:
 
 ## 1. Setting up the Dockerfile
