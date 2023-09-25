@@ -25,6 +25,7 @@ sdk use java 17.0.8-oracle
 In the terminal, navigate to the root directory:
 
 ```bash
+mkdir /workspace/spring-boot-java/account-balance-service
 cd /workspace/spring-boot-java/account-balance-service
 ```
 
